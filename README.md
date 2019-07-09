@@ -25,3 +25,7 @@ Set no of iterations and drop
 python spacy_train.py to start training 
 
 
+
+
+check examples here 
+https://github.com/explosion/spaCy/blob/master/examples/training/train_ner.py
